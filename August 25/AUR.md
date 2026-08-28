@@ -1,0 +1,1 @@
+What to know how do I add AUR support to my github repository.

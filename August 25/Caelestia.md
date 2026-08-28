@@ -1,0 +1,1 @@
+Add caelestia installation option to intall_script

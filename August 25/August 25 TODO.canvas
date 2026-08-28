@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"084edff3022007e9","type":"file","file":"August 25/Executor class.md","x":-720,"y":-40,"width":400,"height":120,"color":"5"},
+		{"id":"eab142051cc5a049","type":"file","file":"August 25/Dotfiles.md","x":-1160,"y":-380,"width":400,"height":280,"color":"5"},
+		{"id":"af5279ce79d89bb2","type":"file","file":"August 25/AUR.md","x":-660,"y":-740,"width":400,"height":160,"color":"5"},
+		{"id":"597d3d4612cd1ad1","type":"file","file":"August 25/Add installation for dotfiles-installer.md","x":-1160,"y":-620,"width":400,"height":160,"color":"5"},
+		{"id":"c9d85369c9cc4e69","type":"file","file":"August 25/Caelestia.md","x":-220,"y":-480,"width":400,"height":100,"color":"5"},
+		{"id":"41efe756fbb9a36d","type":"text","text":"# TODO:","x":-600,"y":-340,"width":250,"height":60,"color":"3"},
+		{"id":"4df528b6ec4fc2b4","type":"file","file":"August 25/uwsm.md","x":-220,"y":-220,"width":400,"height":120,"color":"5"}
+	],
+	"edges":[
+		{"id":"09b405b2e937e463","fromNode":"c9d85369c9cc4e69","fromSide":"bottom","toNode":"41efe756fbb9a36d","toSide":"right","color":"#000000"},
+		{"id":"24306d3a9201ee31","fromNode":"597d3d4612cd1ad1","fromSide":"bottom","toNode":"41efe756fbb9a36d","toSide":"left"},
+		{"id":"0a860c26221b67f8","fromNode":"eab142051cc5a049","fromSide":"bottom","toNode":"41efe756fbb9a36d","toSide":"left"},
+		{"id":"c1753e6233fbe643","fromNode":"084edff3022007e9","fromSide":"top","toNode":"41efe756fbb9a36d","toSide":"bottom"},
+		{"id":"ee5d926196335e8b","fromNode":"4df528b6ec4fc2b4","fromSide":"top","toNode":"41efe756fbb9a36d","toSide":"right"},
+		{"id":"130d70d0ca583e01","fromNode":"af5279ce79d89bb2","fromSide":"bottom","toNode":"41efe756fbb9a36d","toSide":"top"}
+	]
+}

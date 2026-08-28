@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2d399c3afac26b05","x":-580,"y":-418,"width":400,"height":60,"color":"6","type":"file","file":"August 28/Create obsidian repository.md"},
+		{"id":"784970c1e4faeb58","x":-580,"y":-342,"width":400,"height":88,"color":"4","type":"file","file":"August 28/Add scripts installation to dotsmaster.md"},
+		{"id":"f6fc8a16657ef8e6","x":-580,"y":-240,"width":400,"height":100,"color":"5","type":"file","file":"August 28/Add --push flag to dotsmaster.md"},
+		{"id":"227c6c4956729212","x":-580,"y":-120,"width":400,"height":100,"color":"6","type":"file","file":"August 28/Sync obsidian vaults between laptop and desktop.md"},
+		{"id":"3cc63b0e61a7c602","x":-580,"y":0,"width":400,"height":60,"color":"1","type":"file","file":"August 28/Refactor old rust-backuper.md"},
+		{"id":"d79ddd8ad77aa9f7","x":-580,"y":80,"width":400,"height":80,"color":"1","type":"file","file":"August 28/Make project lines counter in rust.md"},
+		{"id":"fe2a0e2554f766ca","x":-580,"y":180,"width":400,"height":80,"color":"5","type":"file","file":"August 28/Fix --update flag by adding git stash logic.md"},
+		{"id":"6d1a69a3d79c7e8c","x":20,"y":-100,"width":250,"height":60,"color":"3","type":"text","text":"# TODO"}
+	],
+	"edges":[
+		{"id":"cd2d91e3afc498bb","fromNode":"2d399c3afac26b05","fromSide":"right","toNode":"6d1a69a3d79c7e8c","toSide":"left"},
+		{"id":"8fd50ab7d86f46f3","fromNode":"784970c1e4faeb58","fromSide":"right","toNode":"6d1a69a3d79c7e8c","toSide":"left"},
+		{"id":"bee78392aab84037","fromNode":"f6fc8a16657ef8e6","fromSide":"right","toNode":"6d1a69a3d79c7e8c","toSide":"left"},
+		{"id":"a089bf4e064815a2","fromNode":"227c6c4956729212","fromSide":"right","toNode":"6d1a69a3d79c7e8c","toSide":"left"},
+		{"id":"fb461143c51c9dc4","fromNode":"3cc63b0e61a7c602","fromSide":"right","toNode":"6d1a69a3d79c7e8c","toSide":"left"},
+		{"id":"e70d7f50384dee4e","fromNode":"d79ddd8ad77aa9f7","fromSide":"right","toNode":"6d1a69a3d79c7e8c","toSide":"left"},
+		{"id":"49213c235b33bb4e","fromNode":"fe2a0e2554f766ca","fromSide":"right","toNode":"6d1a69a3d79c7e8c","toSide":"left"}
+	]
+}

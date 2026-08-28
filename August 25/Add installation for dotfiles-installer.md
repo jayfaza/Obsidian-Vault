@@ -1,0 +1,1 @@
+Get know how to install python modules globally

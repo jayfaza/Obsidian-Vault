@@ -1,0 +1,1 @@
+# Whole 26 august I was configuring neovim configs so I hadn't time to done todos.

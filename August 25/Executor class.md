@@ -1,0 +1,1 @@
+Add executor class to python install script(Just reconstruct Command class)

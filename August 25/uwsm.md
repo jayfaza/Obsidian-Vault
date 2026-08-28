@@ -1,0 +1,1 @@
+Get know how to start exact wm with uwsm.
