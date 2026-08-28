@@ -11,14 +11,17 @@
             "id": "315ac6e685ed77bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "August 28/Create obsidian repository.md",
-                "mode": "source",
-                "source": false
+                "file": "August 28/August 28 todo.canvas",
+                "viewState": {
+                  "x": -155,
+                  "y": 11,
+                  "zoom": -0.008893248734104119
+                }
               },
-              "icon": "lucide-file",
-              "title": "Create obsidian repository"
+              "icon": "lucide-layout-dashboard",
+              "title": "August 28 todo"
             }
           }
         ]
@@ -191,12 +194,14 @@
   "active": "315ac6e685ed77bd",
   "lastOpenFiles": [
     "August 28/August 28 todo.canvas",
+    "August 28/Add obsidian installation to dotsmaster.md",
+    "August 28/Update dotfiles .gitignore.md",
+    "August 28/Create obsidian repository.md",
     "August 25/August 25 TODO.canvas",
     "August 26/August 26 TODO.canvas",
     "August 28/Sync obsidian vaults between laptop and desktop.md",
     "August 28/Refactor old rust-backuper.md",
     "August 28/Fix --update flag by adding git stash logic.md",
-    "August 28/Create obsidian repository.md",
     "August 28/Add scripts installation to dotsmaster.md",
     "August 28/Add --push flag to dotsmaster.md",
     "August 28/Make project lines counter in rust.md",
@@ -220,7 +225,6 @@
     "August 25/uwsm.md",
     "Untitled 1.canvas",
     "August 25/Executor class.md",
-    "August 25/Caelestia.md",
-    "August 25/Dotfiles.md"
+    "August 25/Caelestia.md"
   ]
 }
