@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a1942091a63428",
+        "id": "a34d2503e057b485",
         "type": "tabs",
         "children": [
           {
-            "id": "315ac6e685ed77bd",
+            "id": "84a7159e3fddc617",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "August 28/August 28 todo.canvas",
+                "file": "August 29/August 29 todo.canvas",
                 "viewState": {
-                  "x": -155,
-                  "y": 11,
-                  "zoom": -0.008893248734104119
+                  "x": 165.91781226325793,
+                  "y": 5.629038162880293,
+                  "zoom": -0.2553512968480071
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "August 28 todo"
+              "title": "August 29 todo"
             }
           }
         ]
@@ -191,11 +191,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "315ac6e685ed77bd",
+  "active": "84a7159e3fddc617",
   "lastOpenFiles": [
+    "August 29/August 29 todo.canvas",
+    "August 29/Learn about deeper error handling in rust..md",
+    "August 29/Rebuild plc project using deeper error handling.md",
     "August 28/August 28 todo.canvas",
-    "August 28/Add obsidian installation to dotsmaster.md",
+    "August 29",
     "August 28/Update dotfiles .gitignore.md",
+    "August 28/Add obsidian installation to dotsmaster.md",
     "August 28/Create obsidian repository.md",
     "August 25/August 25 TODO.canvas",
     "August 26/August 26 TODO.canvas",
@@ -223,8 +227,6 @@
     "2026-08-26.md",
     "August 25/AUR.md",
     "August 25/uwsm.md",
-    "Untitled 1.canvas",
-    "August 25/Executor class.md",
-    "August 25/Caelestia.md"
+    "Untitled 1.canvas"
   ]
 }

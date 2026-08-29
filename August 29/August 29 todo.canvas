@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5cfcf0cc47f874a5","x":-444,"y":-238,"width":400,"height":98,"color":"1","type":"file","file":"August 29/Learn about deeper error handling in rust..md"},
+		{"id":"475f35984d759397","x":88,"y":-105,"width":250,"height":65,"color":"3","type":"text","text":"# TODO"},
+		{"id":"13e0be7af3546b90","x":-444,"y":0,"width":400,"height":100,"color":"1","type":"file","file":"August 29/Rebuild plc project using deeper error handling.md"}
+	],
+	"edges":[
+		{"id":"fecfefa313ab55d9","fromNode":"5cfcf0cc47f874a5","fromSide":"right","toNode":"475f35984d759397","toSide":"left"},
+		{"id":"a528c142d8cb6a60","fromNode":"13e0be7af3546b90","fromSide":"right","toNode":"475f35984d759397","toSide":"left"}
+	]
+}
