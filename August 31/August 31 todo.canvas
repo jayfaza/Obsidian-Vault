@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3e904b4cdea4769e","x":-422,"y":-281,"width":400,"height":101,"color":"3","type":"file","file":"August 31/Get my tommorw's bag packed up..md"},
+		{"id":"409173ab007aa183","x":-422,"y":0,"width":400,"height":100,"color":"1","type":"file","file":"August 31/Redbuild dinosaur_rs without clearly.md"},
+		{"id":"93c0fe5c246ac1d7","x":160,"y":-120,"width":250,"height":60,"color":"3","type":"text","text":"TODO"}
+	],
+	"edges":[
+		{"id":"f58b514dbbc253e8","fromNode":"3e904b4cdea4769e","fromSide":"right","toNode":"93c0fe5c246ac1d7","toSide":"left"},
+		{"id":"a0689a9114c7a3c7","fromNode":"409173ab007aa183","fromSide":"right","toNode":"93c0fe5c246ac1d7","toSide":"left"}
+	]
+}

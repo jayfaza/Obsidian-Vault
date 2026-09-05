@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "August 29/August 29 todo.canvas",
+                "file": "August 31/Untitled.canvas",
                 "viewState": {
-                  "x": 165.91781226325793,
-                  "y": 5.629038162880293,
-                  "zoom": -0.2553512968480071
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "August 29 todo"
+              "title": "Untitled"
             }
           }
         ]
@@ -193,7 +193,16 @@
   },
   "active": "84a7159e3fddc617",
   "lastOpenFiles": [
+    "August 31/August 31 todo.canvas",
+    "August 31/Untitled.canvas",
+    "August 31/Get my tommorw's bag packed up..md",
+    "August 31/Redbuild dinosaur_rs without clearly.md",
+    "August 30/Untitled.canvas",
+    "August 31",
+    "August 30/Try to do ls-analogue project in rust..md",
+    "August 30/Try to fix ground display in dinosaur_rs project.md",
     "August 29/August 29 todo.canvas",
+    "August 30",
     "August 29/Learn about deeper error handling in rust..md",
     "August 29/Rebuild plc project using deeper error handling.md",
     "August 28/August 28 todo.canvas",
@@ -221,12 +230,8 @@
     "August 26/Fix fuzzel purple color.md",
     "August 26/Increase darkness of niri config.md",
     "August 26/Deal with grub.md",
-    "August 26/Improve stability of dotsamster.md",
     "August 26",
     "August 25",
-    "2026-08-26.md",
-    "August 25/AUR.md",
-    "August 25/uwsm.md",
     "Untitled 1.canvas"
   ]
 }

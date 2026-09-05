@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b7d9413f94882f30","x":-385,"y":-227,"width":400,"height":87,"color":"1","type":"file","file":"August 30/Try to fix ground display in dinosaur_rs project.md"},
+		{"id":"0676cfaeca008707","x":60,"y":-140,"width":250,"height":60,"color":"3","type":"text","text":"TODO"},
+		{"id":"c5169b5000a2549a","x":-385,"y":-80,"width":400,"height":80,"color":"1","type":"file","file":"August 30/Try to do ls-analogue project in rust..md"}
+	],
+	"edges":[
+		{"id":"030f76ea4837cd0f","fromNode":"b7d9413f94882f30","fromSide":"right","toNode":"0676cfaeca008707","toSide":"left"},
+		{"id":"bc937c09a3ec9e77","fromNode":"c5169b5000a2549a","fromSide":"right","toNode":"0676cfaeca008707","toSide":"left"}
+	]
+}
